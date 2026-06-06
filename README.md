@@ -1,6 +1,6 @@
 > End-to-end daily Air Quality Index forecasting for Delhi using ensemble machine learning, advanced time-series feature engineering, and SHAP-based interpretability.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue) ![XGBoost](https://img.shields.io/badge/Model-XGBoost%20%7C%20RF%20%7C%20HGB-orange) ![SHAP](https://img.shields.io/badge/Interpretability-SHAP-green) ![R2](https://img.shields.io/badge/R²-0.94-brightgreen) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1myI2oGdDLdx2ko6GjY-lneArskvJEt2L)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![XGBoost](https://img.shields.io/badge/Model-XGBoost%20%7C%20RF%20%7C%20HGB-orange) ![SHAP](https://img.shields.io/badge/Interpretability-SHAP-green) ![R2](https://img.shields.io/badge/R²-0.94-brightgreen) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 ---
 
